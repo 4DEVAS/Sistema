@@ -68,8 +68,6 @@ $ python manage.py runserver
 ~~~
 
 
-## 📄 Licença
-
 ## ✒️ Autoras
 ---
 
