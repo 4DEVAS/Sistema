@@ -13,8 +13,7 @@
    * [Como usar](#como-usar)
       * [Pré Requisitos](#pre-requisitos)
       * [Back End](#local-files)
-   * [Deploy](#deploy)
-   * [Autoras](#autoras)
+      * [Autoras](#autoras)
 <!--te-->
 =================
 
