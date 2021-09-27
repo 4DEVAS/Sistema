@@ -67,6 +67,11 @@ $ python manage.py runserver
 # O servidor inciará na porta:8000 - acesse <http://localhost:8000>
 ~~~
 
+## 🚀 Deploy
+
+~~~bash
+docker push us.gcr.io/devas-luizacode/python-django
+~~~
 
 ## ✒️ Autoras
 ---
