@@ -12,11 +12,9 @@
    * [Status do Projeto](#status-do-projeto)
    * [Como usar](#como-usar)
       * [Pré Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+      * [Back End](#local-files)
+   * [Deploy](#deploy)
+   * [Autoras](#autoras)
 <!--te-->
 =================
 
@@ -67,11 +65,6 @@ $ python manage.py runserver
 # O servidor inciará na porta:8000 - acesse <http://localhost:8000>
 ~~~
 
-## 🚀 Deploy
-
-~~~bash
-docker push us.gcr.io/devas-luizacode/python-django
-~~~
 
 ## ✒️ Autoras
 ---
