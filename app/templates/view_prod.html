@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>View</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+</head>
+<body>
+
+<nav style="background-color: purple; color:#ffffff"> <span class="navbar-brand mb-0 h3"><br><center>DEVAS</center></span></nav>
+
+    <div class="col-8 m-auto pt-2 pb-2 text-center">
+        <h1>Visualização</h1>
+    </div>
+
+    <div class="col-8 m-auto pt-3 pb-2 text-center">
+        <a href="/home_produto" class="btn btn-info" style="background-color: purple;color:#ffffff">Voltar</a>
+    </div>
+
+    <div class="col-8 m-auto pt-4 pb-2 text-center">
+        <strong>Produto: </strong>{{db.nome}}<br>
+        <strong>Descrição: </strong>{{db.descricao}}<br>
+        <strong>Quantidade: </strong>{{db.quantidade}}<br>
+        <strong>Valor: </strong>{{db.valor}}<br>
+    </div>
+</body>
+</html>
